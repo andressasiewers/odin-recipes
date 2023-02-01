@@ -1,6 +1,5 @@
 # odin-recipes
-My favorite recipes
+This a website of my favorites recipes.
 
-
-This is all my favorites recipes website.
-Skills demonstrated: HTML.
+<p>Skills demonstrated:<p> 
+- <b>HTML<b>
