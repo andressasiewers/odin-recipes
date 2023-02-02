@@ -1,0 +1,36 @@
+* {
+    background-color: white;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+.image {
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+.prep-time,
+.servings
+{
+    text-align: center;
+}
+
+.ingredients,
+.u-list,
+.steps,
+.o-lis,
+.list {
+    text-align: left;
+}
+
+#menu {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
