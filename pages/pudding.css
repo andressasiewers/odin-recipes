@@ -1,0 +1,29 @@
+* {
+    background-color: white;
+}
+
+body {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.image {
+    height: auto;
+    width: auto;
+}
+
+.instructions {
+    text-align: left;
+}
+
+.menu  {
+    text-align: center;
+}
+
+#menu-button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
