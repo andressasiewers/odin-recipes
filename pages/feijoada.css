@@ -5,20 +5,26 @@
 body {
     color: black;
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 
-    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .instructions {
     text-align: left;
 }
 
-.menu {
-    text-align: center;
+.link-menu a {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    width: 100px;
+    height: 20px;
+    padding: 10px;
+    display: inline-block;
 }
 
-#menu-button {
-    background-color: black;
+.link-menu a:hover {
+    background-color: lightslategray;
     color: white;
     font-weight: bold;
 }
