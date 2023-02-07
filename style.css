@@ -13,6 +13,12 @@ body {
     color: black;
 }
 
+.border {
+    border: .05em solid #1d1c1e;
+    width: 500px;
+    margin: auto;
+}
+
 .point  {
     color: white;
 }
