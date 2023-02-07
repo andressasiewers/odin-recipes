@@ -18,7 +18,7 @@ body {
 }
 
 .links-list a {
-    background-color: black;
+    background-color: #0c0c0c;
     color: white;
     text-decoration: none;
     width: 160px;
@@ -29,9 +29,9 @@ body {
 }
 
 .links-list a:hover {
-    background-color: lightslategray;
+    background-color: #1d1c1e;
     color: white;
-    font-weight: bold;
+    font-size: 17px;
 }
 
 .image  {
